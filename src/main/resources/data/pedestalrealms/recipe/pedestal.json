@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "minecraft:smooth_stone_slab"
+    },
+    "W": {
+      "item": "minecraft:stone_brick_wall"
+    },
+    "S": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "pattern": [
+    "P",
+    "W",
+    "S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "pedestalrealms:pedestal"
+  }
+}
